@@ -40,17 +40,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="55">
 </p>
 
-## 🚀 Projetos
-
-### 🌤️ ClimApp
-Aplicação de previsão do tempo desenvolvida para praticar HTML, CSS e JavaScript.
-
-### 🎯 Fokus
-Projeto desenvolvido durante meus estudos de Front-End, utilizando HTML, CSS e JavaScript.
-
-### 🌐 Site para ONG
-Projeto acadêmico desenvolvido para uma ONG, utilizando HTML, CSS e JavaScript, com foco em responsividade e experiência do usuário.
-
 ## 📚 Atualmente estudando
 
 - Front-End
@@ -62,10 +51,10 @@ Projeto acadêmico desenvolvido para uma ONG, utilizando HTML, CSS e JavaScript,
 ## 📫 Entre em contato
 
 <p>
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lucas-gabriel-a7137319a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:lmarquesdesiqueira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
