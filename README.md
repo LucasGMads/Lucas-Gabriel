@@ -20,7 +20,7 @@
 
     </td>
     <td width="42%" align="center">
-      <img src="./imagens/programador-anime.png" width="380px">
+      <img src="./programador-anime.png" width="380px">
     </td>
   </tr>
 </table>
